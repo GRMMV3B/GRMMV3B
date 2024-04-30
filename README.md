@@ -1,16 +1,14 @@
-### Hi there 👋
+Seja muito bem vindo ao meu perfil 💠
 
-<!--
-**GRMMV3B/GRMMV3B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me chamo GUilherme Ribeiro Malagutti, tenho 17 anos e adoro matemática
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Atualmente, estou cursando o Alura e desenvolvendo diversos projetos com tal;
+* Desenvolvo projetos com as linguagens NoCode (Scratch) e com o JavaScript;
+* Utilizo o Github para compartilhar meus projetos;
+
+**Você entra em contato comigo através de meu e-mail** 📧
+
+guimalagutti07@gmail.com
+
+![](https://media1.tenor.com/m/QS2frkHOkXsAAAAC/pulsating-albert-einstein.gif)
