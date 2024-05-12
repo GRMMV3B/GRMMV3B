@@ -1,7 +1,7 @@
 Seja muito bem vindo ao meu perfil 💠
 
 
-Me chamo GUilherme Ribeiro Malagutti, tenho 17 anos e adoro matemática
+Me chamo Guilherme Ribeiro Malagutti, tenho 17 anos e adoro matemática
 
 * Atualmente, estou cursando o Alura e desenvolvendo diversos projetos com tal;
 * Desenvolvo projetos com as linguagens NoCode (Scratch) e com o JavaScript;
